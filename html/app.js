@@ -11,7 +11,7 @@ const load = Vue.createApp({
       CarouselSubText2: 'Photo captured by: ihyajb#9723',
       CarouselText3: 'All server-specific adjustments can be made in the config.lua files throughout the build.',
       CarouselSubText3: 'Photo captured by: FLAPZ[INACTIV]#9925',
-      CarouselText4: 'For additional support please join our community at discord.gg/qbcorer',
+      CarouselText4: 'For additional support please join our community at discord.gg/qbox',
       CarouselSubText4: 'Photo captured by: Robinerino#1312',
 
       DownloadTitle: 'Downloading QBCore:RE Server',
