@@ -14,8 +14,8 @@ const load = Vue.createApp({
         CarouselText4: 'Para suporte adicional, por favor, junte-se à nossa comunidade em discord.gg/qbox',
         CarouselSubText4: 'Foto capturada por: Robinerino#1312',
 
-        DownloadTitle: 'Baixando o Servidor Qbox',
-        DownloadDesc: "Aguarde enquanto começamos a baixar todos os recursos/necessários para jogar no Servidor QBox. \n\nApós o download ser concluído com sucesso, você será colocado no servidor e esta tela desaparecerá. Por favor, não saia ou desligue seu PC. ",
+        DownloadTitle: 'Baixando o Servidor mri_Qbox',
+        DownloadDesc: "Aguarde enquanto começamos a baixar todos os recursos/necessários para jogar no Servidor mri_Qbox. \n\nApós o download ser concluído com sucesso, você será colocado no servidor e esta tela desaparecerá. Por favor, não saia ou desligue seu PC. ",
 
         SettingsTitle: 'Configurações',
         AudioTrackDesc1: 'Quando desativado, a faixa de áudio atual será interrompida.',
