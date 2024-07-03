@@ -5,8 +5,6 @@ description 'QBX_Loading'
 repository 'https://github.com/Qbox-project/qbx_loading'
 version '1.0'
 
-client_script 'client/client.lua'
-
 files {
     'html/assets/**',
     'html/*',
