@@ -16,7 +16,7 @@ loadscreen {
     'html/index.html'
 }
 loadscreen_cursor 'yes'
-loadscreen_manual_shutdown 'yes'
+loadscreen_manual_shutdown 'no'
 
 lua54 'yes'
 use_experimental_fxv2_oal 'yes'
